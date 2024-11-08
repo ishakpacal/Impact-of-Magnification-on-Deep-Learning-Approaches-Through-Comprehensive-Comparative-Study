@@ -12,7 +12,7 @@ Dataset details are provided below; please refer to the respective publications 
 
 # Dataset 1: BreakHis: This dataset includes 40x, 100x, 200x, 400x and mixed (40x + 100x + 200x + 400x) magnification (binary and multiclass). So, this dataset includes 10 subdataset. 
 For example BreakHis dataset1 is 40x binary, dataset2 is 100x binary....dataset6 is 40x multiclass....dataset10 is mixed multiclass (40x + 100+ 200x + 400x) 
-# All this details can be accessed here:
+# All this details can be accessed here: https://drive.google.com/file/d/1f4ep8P46AHY1ZRbnZo95Fs25BVQHWi9X/view?usp=sharing
 
 # Dataset2: BACH dataset comprises histopathology images at a fixed magnification of 200x, offering a more contemporary and varied collection of high-resolution images compared to the Breakhis dataset 
 # All this details can be accessed here: https://drive.google.com/file/d/1ZHF_b1m5EJY5fGM3T7vATsddaHH36rVq/view?usp=sharing
